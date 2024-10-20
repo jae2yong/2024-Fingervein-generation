@@ -1,10 +1,10 @@
-PyCharm
-Python > 3.5
-Torch > 2.0.0
-Other packages:
-torchvision
-Opencv-python
-pythonnet
+- PyCharm
+- Python > 3.5
+- Torch > 2.0.0
+- Other packages:
+- torchvision
+- Opencv-python
+- pythonnet
 
 **1. Diffusion**
    - 지문과 동일 방식으로 Diffusion network 학습(fingerprint/diffusion 폴더)
